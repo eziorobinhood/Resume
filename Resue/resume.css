@@ -1,0 +1,154 @@
+.profile{
+	width: 100%;
+	}
+.profilepic{
+	height: 232px;
+	width: 30%;
+	float: left;
+}
+
+.profilepic img{
+	height:232px;
+	width: 100%;
+}
+
+.name{
+	width: 70%;
+	float: right;
+	padding:22px;
+	background: #4e4e4e;
+	height: 116px;
+
+}
+.name h1{
+	color: white;
+	font-family: 'Sansita Swashed', cursive;
+}
+.skills{
+	float: left;
+	text-align: center;
+	padding: 35px;
+	margin-left: 99px;
+}
+.intrest{
+	text-align: center;
+	padding: 35px;
+	float: left;
+}
+.hobbies{
+	text-align: center;
+	padding: 35px;
+	float: left;
+}
+.skills h3{
+	color: black;
+	font-family: 'Zilla Slab', serif;
+}
+.intrest h3{
+	color: black;
+	font-family: 'Zilla Slab', serif;
+}
+.hobbies h3{
+	font-family: 'Zilla Slab', serif;
+	color: black;	
+}
+.skills p{
+	font-family: 'Cormorant Garamond', serif;
+}
+.intrest p{
+	font-family: 'Cormorant Garamond', serif;
+}
+.hobbies p{
+	font-family: 'Cormorant Garamond', serif;
+}
+.head1 {
+	width: 100%;
+	float: left;
+}
+.head1 h2{
+	font-size: 40px;
+	font-family: 'Peddana', serif;
+}
+.head1 h4{
+	color: red;
+	font-family: 'Peddana', serif;
+	font-size: 40px;
+	
+}
+
+.profession h3{
+	color:white;
+		font-family: 'Sansita Swashed', cursive;
+
+}
+
+.profession{
+	padding: 22px;
+	background: #3d3d3d;
+	width: 70%;
+	float: right;
+	height: 116px;
+}
+
+.contact{
+	float: left;
+	width: 100%;
+}
+.pi{
+    float: right;
+    padding: 33px;
+    width: 30%;
+    margin-right: 35px;
+}
+.pi h3{
+	font-family: 'Acme', sans-serif;
+}
+.pi h5{
+	font-family: 'Domine', serif;
+}
+
+.roll{
+	width: 100%;
+    float: left;
+    height: 98px;
+}
+.employment{
+	width: 30%;
+	float: left;
+	background: #be03fc;
+}
+.employment h2{
+	color: white;
+	padding-top: 5px;
+}
+
+.percentage{
+	float: left;
+	width: 70%;
+	height: 206px;
+	background:#035efc;
+}
+
+.employment h4{
+	padding: 20px;
+	color: white;
+	font-family: 'Sansita Swashed', cursive;
+}
+
+.percentage h2{
+	color: white;}
+
+
+.dot {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+  padding:24px; 
+  margin-left: 160px;
+  display: inline-block;
+  text-align:center;
+}
+.dot h2{
+	color: black;
+}
